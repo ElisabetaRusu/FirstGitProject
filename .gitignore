@@ -1,0 +1,10 @@
+.DS_Store
+Angular/
+Proiect test/
+
+*.py[cod]
+.DS_Store
+__pycache__/
+*.py[cod]
+*.class
+
