@@ -52,3 +52,11 @@ __pycache__/
 *$py.class
 " > .gitignore
 
+
+Add file:
+git add file
+git commit -m "scrie ce ai facut"
+
+Push to repository:
+git push orgin master
+
